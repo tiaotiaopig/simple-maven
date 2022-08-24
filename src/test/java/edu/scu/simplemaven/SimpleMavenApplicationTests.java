@@ -8,3 +8,6 @@ class SimpleMavenApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
